@@ -1,0 +1,20 @@
+
+/** ADD YOUR AWESOME CODES HERE **/
+
+.navbar-brand img{
+    max-width: 300px;
+}
+
+.navbar-brand img{
+    max-width: 300px;
+}
+
+
+
+
+@media (max-width: 768px){
+
+    .navbar-brand img{
+        max-width: 250px;
+
+}
